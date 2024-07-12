@@ -1,0 +1,293 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    font-family:"Poppins",sans-serif;
+
+}
+body{
+    background-color: #EDDEA4;
+}
+.navbar{
+    background:honeydew;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px; 
+
+
+}
+.navbar a{
+    text-decoration: none;
+    color:#00a7e1;
+
+}
+.navbar input{
+    background: transparent;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0px 0px 5px rgb(185, 168, 168);
+    color:#00a7e1;
+    margin-left: 10px;
+}
+
+#search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar svg{
+    height: 20px;
+    width: 20px;
+    
+}
+
+#search button{
+    background-color:#00a7e1;
+    padding: 10px;
+    color: white;
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+}
+#search button:hover{
+    background-color:lightgray;
+    color: #00a7e1;
+}
+
+#tag{
+    color: #00a7e1;
+    background-color:honeydew;
+    transition: all ease-out 0.5s;
+}
+#h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 140px;
+   
+    height: 359px;
+    width: 247.38px;
+    background-color:honeydew;
+    border-radius: 10px;
+    box-shadow: 0 0 5px grey; 
+   overflow: hidden;
+ }
+ .left img{
+    width: 100%;
+    height: 100%;
+ }
+ #top{
+    display: flex;
+    justify-content: center;
+    
+    
+ }
+ 
+ .banner:hover{
+        cursor: pointer;  
+     }
+ .banner2:hover{
+    cursor: pointer;
+    
+ }
+ .left:hover{
+cursor: pointer;
+
+ }
+ .banner{
+    background-color: honeydew;
+    margin-right: 140px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height:450px;
+    width:950px;
+    border-radius: 10px;
+    overflow: hidden;
+ }
+ .banner img{
+    width: 100%;
+ }
+ .banner2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 145px;
+    margin-right: 140px;
+    margin-top: 25px;
+    background-color: honeydew;
+    border-radius: 45px;
+    height: 176px;
+    width: 1188px;
+    overflow: hidden;
+    
+ }
+
+ .banner2 img{
+    
+    width: 100%;
+    
+
+ }
+ 
+ 
+ .left{
+    font-size: 12px;
+    color: #00a7e1;
+ }
+
+ .category{
+    display: flex;
+    width: 1188px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 20px;
+} 
+.head{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-weight: 600;
+    color: #00a7e1;
+}
+.catcard{
+height: 188px;
+width:296px;
+background-color: honeydew;
+overflow: hidden;
+
+
+}
+
+
+.category img:hover{
+opacity: 0.5;
+
+    cursor: pointer;
+}
+
+
+#img1{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#img2{
+    margin-right: 5px;
+}
+#img3{
+    margin-right: 5px;
+}
+#img4{
+    margin-right: 5px;
+}
+#img5{
+    margin-right: 5px;
+}
+#img7{
+    margin-right: 5px;
+}
+#img8{
+    margin-right: 5px;
+}
+#img9{
+    margin-right: 5px;
+}
+#img10{
+    margin-right: 5px;
+}
+#img11{
+    margin-right: 5px;
+}
+
+#foot{
+    padding-top: 20px;
+    background-color: #00a7e1;
+    height: 400px;
+    width: 1517px;
+
+}
+.links a,h3{
+    text-decoration: none;
+    color: honeydew;
+}
+.branches h5{
+    color: honeydew;
+   
+    
+}
+.form h2{
+    color: honeydew;
+}
+.links{
+    padding-left: 30px;
+}
+.branches{
+    padding-right:30px;
+    
+}
+
+#form label{
+    color: honeydew;
+    
+}
+#form input{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+#form textarea{
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+}
+
+
+#fs h3{
+    color: honeydew;
+    font-weight: 300;
+}
+#fs a{
+    text-decoration: none;
+    color: honeydew;
+}
+.bottom{
+    margin-top: 25px;
+    margin-left: 85px;
+    display: flex;
+    justify-content: center;
+   
+}
+.bottom img{
+    height: 30px;
+    width:30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#btn{
+    margin-top: 10px;
+    width:200px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: transparent;
+    border:none;
+    box-shadow: 0px 0px 3px honeydew;
+    border-radius: 10px;
+    color: honeydew;
+    cursor: pointer;
+}
+#btn:hover{
+    transition: all,ease-in-out,0.5s;
+background-color: honeydew;
+color: #00a7e1;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
