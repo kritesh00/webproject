@@ -1,4 +1,4 @@
-# Project on Web
+# Project on Web 7days
 ### Technologies used:
 - [x] HTML
 - [x] CSS
@@ -11,3 +11,4 @@
 ![Screenshot (38)](https://github.com/user-attachments/assets/af24c4cd-e3e2-4136-9323-5d7997f080bd)
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/27aa060f-c394-486a-9d54-ff8332a0d05f)
+

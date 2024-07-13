@@ -286,10 +286,29 @@ color: #00a7e1;
     display: flex;
     justify-content: space-between;
 }
+#link:hover{
+    cursor: pointer;
+
+}
+.branches:hover{
+    cursor: pointer;
+}
+#con{
+    cursor: pointer;
+}
 #copyR{
     margin-top: 30px;
     margin-left: 75px;
     font-weight: 300;
     color:honeydew;
     text-align: center;
+}
+#copyR:hover{
+    cursor: pointer;
+}
+.branches h5:hover{
+text-decoration: underline;
+}
+#cate:hover{
+    cursor: pointer;
 }
