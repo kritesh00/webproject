@@ -209,6 +209,10 @@ opacity: 0.5;
     width: 1517px;
 
 }
+.links a:hover{
+    text-decoration: underline;
+    color: honeydew;
+}
 .links a,h3{
     text-decoration: none;
     color: honeydew;
@@ -244,15 +248,6 @@ opacity: 0.5;
     height: 100px;
 }
 
-
-#fs h3{
-    color: honeydew;
-    font-weight: 300;
-}
-#fs a{
-    text-decoration: none;
-    color: honeydew;
-}
 .bottom{
     margin-top: 25px;
     margin-left: 85px;
