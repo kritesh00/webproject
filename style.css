@@ -55,20 +55,15 @@ body{
 #search button:hover{
     background-color:lightgray;
     color: #00a7e1;
+    cursor: pointer;
 }
 
-#tag{
-    color: #00a7e1;
-    background-color:honeydew;
-    transition: all ease-out 0.5s;
-}
 #h1{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
     margin-left: 140px;
-   
     height: 359px;
     width: 247.38px;
     background-color:honeydew;
