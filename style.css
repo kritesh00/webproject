@@ -156,10 +156,11 @@ overflow: hidden;
 
 }
 
-
+.catcard:hover{
+    transform: translate(-5px,-10px);
+}
 .category img:hover{
 opacity: 0.5;
-
     cursor: pointer;
 }
 
